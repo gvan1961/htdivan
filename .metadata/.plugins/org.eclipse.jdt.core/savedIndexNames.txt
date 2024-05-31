@@ -27,7 +27,6 @@ INDEX VERSION 1.134+C:\divan\.metadata\.plugins\org.eclipse.jdt.core
 2699110516.index
 2670244039.index
 2156790681.index
-1719796336.index
 563961756.index
 1345776810.index
 396098499.index
